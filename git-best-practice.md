@@ -44,9 +44,38 @@ The commit message should look like this:
 Bonus karma points for reading [this detailed essay about good commits](https://chris.beams.io/posts/git-commit/).
 
 A few examples of excellent commits:
- * TODO
- * TODO
- * TODO
+- DMON: c7ea4676b9e8493eb73001fcb2e4c7ac17e14b36:
+    ```
+    Add github issue template and fix js dependency issue.
+
+    The template contains link to the Operations issue repository where
+    the whole User Story template is located.
+
+    Refs: niteoweb/operations#212
+    ```
+
+- DMON: 8356188258c390351ef72c8cae92ad0d1c0c13c1:
+    ```
+    Cleanup Travis config
+
+     - Use the new 'make buildout' target.
+     - `pshell` test now includes an exit status based on greping pshell stdout.
+     - Replace travis installing phantomjs with buildout installation.
+     - Use 'has passed|failed' with link for slack notification.
+
+     - Fix indendation to 2 spaces.
+     - No need for line-continuation backslash between double-quotes.
+    ```
+
+- EBN: 3bc3a50f63f0660032b5531dacae167e1a327bd9:
+    ```
+    Fix Godaddy API error handler
+
+    Some errors were not treated as errors, routine should use HTTP status codes
+    for detecting if response is erroneous.
+
+    Ref: https://sentry.io/niteoweb/ebn/issues/409481068/
+    ```
 
 
 ### Pull Request

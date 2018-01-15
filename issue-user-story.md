@@ -108,6 +108,13 @@ Here are a few recommended screencast applications.
  * <a name="label_support"></a>**Support**: user-facing maintenance work, not included in sprints, such as fixing subscription problems, resetting passwords, re-enabling accounts, etc.
  * <a name="label_people"></a>**People**: internally-facing maintenance work, not included in sprints, such as hiring, onboarding, etc.
 
+### Examples
+
+A few examples of well written stories:
+ * [Bug report](https://github.com/niteoweb/operations/issues/292)
+ * [Marketing / Operation](https://github.com/niteoweb/marketing/issues/89)
+ * [Feature request](https://github.com/niteoweb/operations/issues/331)
+
 ### Scrum labels
 
 * <a name="label_priority_lane"></a>**Priority Lane**: User Stories injected into the current sprint due to urgency
