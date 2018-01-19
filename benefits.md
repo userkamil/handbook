@@ -3,6 +3,7 @@
   - [Allowances](#allowances)
   - [Conferences](#conferences)
   - [Courses](#courses)
+  - [Time-off](#time-off)
   - [Severance](#severance)
 
 
@@ -89,7 +90,7 @@ If you need to pay a fee to participate in the course, use your [allowance](#pro
 
 Main article: [Time-off](time-off.md)
 
-We expect Niteans to take sensible time-off and use their vacation time and public holidays throughout the year. We also understand that everyone gets sick or need family time so allowances are made for these too.
+We expect Niteans to take sensible time-off and use their vacation time and public holidays throughout the year. We also understand that everyone gets sick or needs family time so allowances are made for these too.
 
 
 ## Severance
