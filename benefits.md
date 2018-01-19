@@ -3,9 +3,7 @@
   - [Allowances](#allowances)
   - [Conferences](#conferences)
   - [Courses](#courses)
-  - [Vacation](#vacation)
-  - [Public holidays](#public-holidays)
-  - [Sick leave](#sick-leave)
+  - [Severance](#severance)
 
 
 ## Allowances
@@ -92,3 +90,18 @@ If you need to pay a fee to participate in the course, use your [allowance](#pro
 Main article: [Time-off](time-off.md)
 
 We expect Niteans to take sensible time-off and use their vacation time and public holidays throughout the year. We also understand that everyone gets sick or need family time so allowances are made for these too.
+
+
+## Severance
+
+While many of us are good friends, we are still a business, not a family. So people join and leave us from time to time and every Nitean (except Trialists) is entitled to a severance package:
+  * Up to one year: 1 month base salary,
+  * More than one year: 2 months base salary + 1 month for each additional year, up to max 12 months total.
+
+Whenever we have to let someone go, we follow these procedures:
+
+* The person needs to know at least 1 month in advance that their position could be cancelled in the near term.
+* The person needs to know that if we will be hiring for the same position again in the future, they will have priority over completely new people.
+* All Partners need to agree with cancellation.
+* When cancellation is agreed, the person should be notified immediately.
+* The person is no longer required to work, but is encouraged to take their time to hand off anything they feel is valuable to other people in Niteo.
