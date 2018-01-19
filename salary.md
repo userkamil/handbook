@@ -23,8 +23,11 @@ All amounts are gross (total cost to the company). Some people take care of thei
 The main idea to keep in mind is: base salary gives you a *bit painful* lower-middle-class salary that covers your expenses while [profit sharing](https://github.com/niteoweb/handbook/blob/master/profit-sharing.md) gives you the luxury and brings you in the higher class. We want the large majority of salary to come from profit sharing so that the company is able to survive challenging times with as low fixed expenses as possible, but so that everyone gets a big cut of the profit when we're doing well.
 
 You should also consider internal and external factors:
-* your responsibilities in the company, how independent you are at your job, seniority;
-* your country's purchasing power, your role market rate, dependants (children, spouses).
+* Your role and responsibilities in the company.
+* How independent you are at your job.
+* Your seniority.
+* Your country's purchasing power and market rate
+* Any dependents (children, spouses).
 
 We've set the founder's salary as a middle-class salary in Ljubljana, Slovenia. There are multiple indexes you can check to see how your country/city compares to Ljubljana, the easiest one to use is [Numbeo](https://www.numbeo.com/cost-of-living/).
 
@@ -34,7 +37,7 @@ We've set the founder's salary as a middle-class salary in Ljubljana, Slovenia. 
 You can request a change to your salary sometime in the last month of the quarter. This way we'll have time to finalize the agreement by the end of the quarter, so it goes into effect in the new one.
 
 
-## Working Hours
+## Working hours
 
 Each month everyone is expected to work (on average) 7.5 hours per working day in that month (lunch time not included).
 
@@ -43,20 +46,21 @@ Any additional hours are considered as overtime hours and are worth 130% of your
 On the contrary, if the monthly quota is not reached, these hours will be taken out of your vacation hours. see time-off.md#vacation
 
 
-## Tracking Actual Working Hours
+## Tracking working hours
 
-All time spent doing work-related activities counts as working hours. The only exception is the commute to the office. Working hours include reading the documentation, answering emails, attending conferences, etc.
+All time spent doing work-related activities counts as working hours. The only exceptions are the commute to the office and non-meeting lunches. Working hours include reading the documentation, answering emails, attending conferences, etc.
 
 Track all hours spent working for the company:
-* in the office
-* working from home
-* working from any other location
-* meeting
-* transport to a meeting
-* conference (1 conference day = 7.5 hours)
-* transport to a conference (up to 7.5 hours per day)
-* reading purposefully chosen technical material
-* participation in courses
-* do not track non-meeting lunch
+* In the office
+* Working from home or any other location
+* Meetings
+* Transport to a meeting
+* Conferences (see [conference allowance](benefits.md#conference-allowance))
+* Reading purposefully chosen technical material
+* Participation in courses
 
-Everyone tracks working hours for themselves. At the end of each month, send your **total working hours *and* sick leave days** to Dejan. We don't need breakdown per day or per task. You don't need to count vacation hours or sick leave, all that is done automatically and the balance posted to your [Intra profile](https://intra.niteoweb.com/resolveuid/8027d5b5-0b78-4a85-8d43-d419c82e98fd) at the beginning of each month.
+Everyone tracks working hours for themselves but we don't required a breakdown per day or per task. At the end of the month the following should be sent to Dejan:
+
+    Total working hours *and* total sick leave hours/days
+
+You don't need to count vacation hours as they are calculated automatically and the remaining balance posted to your [Intra profile](https://intra.niteoweb.com/resolveuid/8027d5b5-0b78-4a85-8d43-d419c82e98fd) at the beginning of each month.

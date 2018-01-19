@@ -8,11 +8,9 @@ Everyone is entitled to 165 hours of paid vacation time (22 days) in any calenda
 
 These hours will be used to substitute any missing hours when one doesn't fulfill the monthly work quota. The over/undertime hours are automatically calculated every month for the previous month.
 
-
 ### Booking vacation
 
 To book vacation time off, see the Intra [Planned absences](https://intra.niteoweb.com/resolveuid/dcf71b9c6b17430789ace610c9ac384a) page. Remember to post to `#out-of-office` channel on Slack whenever you add a new entry.
-
 
 ### Unused vacation
 
