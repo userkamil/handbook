@@ -26,9 +26,13 @@ Throughout your first few days at Niteo, it is important to focus on the onboard
 
 The onboarding checklist is a GitHub issue created specifically for you. It tracks everything required for a successful onboarding. The list of tasks is ordered by the priority in which you need to tackle them. Whenever a checkbox in an issue is ticked you should also post a comment. We then have a paper trail of checkbox changes since GitHub doesn't show this.
 
-Usually, it takes about ten working days to get through the onboarding issue, but this is just a rough guideline. At times the onboarding process might feel overwhelming so if you have any additional questions along the way, post a comment on your issue and _@mention_ someone from the [PeopleOps] team. When you are further along, you are welcome to ask questions in the `#operations` channel on Slack.
+Usually, it takes about ten working days , but this is just a rough guideline.
 
-## Anonymous Feedback
+## Help and feedback
+
+At times the onboarding process might feel overwhelming so if you have any questions along the way, post a comment on your issue and _@mention_ someone from the [PeopleOps] team.
+
+When you are further along in the process, you are welcome to ask questions in the `#operations` channel on Slack.
 
 If at any time during your onboarding, or any later time, you feel like you need to provide feedback to Nejc and Dejan privately and/or anonymously, please use the [feedback form](https://niteoweb.github.io/feedback).
 
