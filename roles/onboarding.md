@@ -2,13 +2,15 @@
 
 ## Welcome to Niteo
 
-Congratulations on completing the interview process, and joining us here at Niteo. We very much look forward to having you on the team! This page is designed to help you navigate the onboarding process from reading the Handbook to completing the onboarding checklist.
+Congratulations on completing the interview process, and joining us here at Niteo. We very much look forward to having you on the team!
+
+This page is designed to help you navigate the onboarding process from reading the Handbook to completing the onboarding checklist.
 
 ## GitHub
 
-Regardless of your role, we all use GitHub for tracking our work, and if you come from a non-technical background, this might be new to you!
+Regardless of your role, we all use GitHub to track our work. For those from a non-technical background, this might be quite new to you! Before starting the onboarding process, you will need to have a GitHub account.
 
-Before starting the onboarding process, you need to have a GitHub account. [Sign up](https://github.com/join), if you don't have one yet, preferably using a short and lowercase username, with no special characters. To get an idea, here are a few of our usernames: [@dmurko](https://github.com/dmurko), [@dz0ny](https://github.com/dz0ny), [@marbeann](https://github.com/marbeann), [@zupo](https://github.com/zupo).
+If you do not have one already, [sign up](https://github.com/join) and choose a short and lowercase username, with no special characters. To get an idea, here are a few of our usernames: [@dmurko](https://github.com/dmurko), [@dz0ny](https://github.com/dz0ny), [@marbeann](https://github.com/marbeann), [@zupo](https://github.com/zupo).
 
 ## Trial Period
 
