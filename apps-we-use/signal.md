@@ -12,7 +12,14 @@ To start using Signal you will require an Android phone or iPhone and a working 
 
 ### Signal profile
 
-Once Signal has been installed please fill out your Signal profile, in settings, with your GitHub handle and a photo with your face. These details are important to identify you to other Niteans in Signal.
+Once installed please fill out your Signal profile. Go to `Settings` and tap on your name and edit your details:
+
+ - Use your GitHub handle for you name.
+ - Add a photo with your face.
+
+<example profile>
+
+These details are important to identify you to other Niteans in Signal.
 
 ### Niteo group chat
 
@@ -21,6 +28,10 @@ We have a Niteo group chat on Signal and you will need to be invited to join it.
 ### Phone compatiblity
 
 If your personal phone is not an Andriod or iPhone we advise getting a cheap 'work' phone with a prepaid sim card for secure communication.
+
+### Phone number
+
+The phone number you use does not have to be a mobile number however it must be a number you control and cannot be used by anyone else for registering with Signal.
 
 ## Usage
 
