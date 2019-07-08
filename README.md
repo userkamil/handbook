@@ -6,21 +6,20 @@ For the last decade, we have been accumulating the knowledge and practicalities 
 
 This Handbook offers us an opportunity to clarify what Niteo is and how we operate. It allows greater transparency to our partners, potential new team members, and the wider Open Source community.
 
-The structure of the Handbook mirrors our departments for simple organization. Resilio and Intra are structured the same way.
+The structure of the Handbook mirrors our departments for simple organization. Resilio is structured the same way.
 
 ## The Handbook
 
 ### Operations
 
-Work Process
-* [How We Work](/2_Operations/how-we-work.md)
-* [Work Process](/2_Operations/work-process.md) and [Scrum](/2_Operations/scrum.md)
-* [Find Your Next Task](/2_Operations/next-task.md)
-
-Guides
-* [Managing Docs](/2_Operations/managing-docs.md)
-* [Apps We Use](/2_Operations/apps.md)
-* [Security Policy](/2_Operations/security.md)
+* Work Process
+  * [How We Work](/2_Operations/how-we-work.md)
+  * [Work Process](/2_Operations/work-process.md) and [Scrum](/2_Operations/scrum.md)
+  * [Find Your Next Task](/2_Operations/next-task.md)
+* Guides
+  * [Managing Docs](/2_Operations/managing-docs.md)
+  * [Apps We Use](/2_Operations/apps.md)
+  * [Security Policy](/2_Operations/security.md)
 
 ### Development and Design
 
@@ -35,32 +34,28 @@ Guides
 
 ### People
 
-Compensation and Benefits
-* [Salary](/5_People/salary.md)
-* [Benefits](/5_People/benefits.md)
-* [Profit Sharing](/5_People/profit-sharing.md)
-
-Hiring and Onboarding
-* [Hiring](/5_People/hiring.md)
-* [Onboarding](/5_People/onboarding.md)
-
-Work Environment
-* [Catchup Meetings](/5_People/catchup-meetings.md)
-* [Nitean Recognition](/5_People/nitean-recognition.md)
+* Compensation and Benefits
+  * [Salary System](/5_People/salary-system.md)
+  * [Benefits](/5_People/benefits.md)
+  * [Profit Sharing](/5_People/profit-sharing.md)
+* Hiring and Onboarding
+  * [Hiring](/5_People/hiring.md)
+  * [Onboarding](/5_People/onboarding.md)
+* Work Environment
+  * [Catchups](/5_People/catchups.md)
+  * [Nitean Recognition](/5_People/nitean-recognition.md)
+  * [Recommended Reading List](/5_People/booklist.md)
 
 
 ### Projects
 
-Easy Blog Networks
-
-* [EasyBlogNetworks.com](https://www.easyblognetworks.com)
-* [Repository](https://github.com/niteoweb/easyblognetworks) 
-
-WooCart
-
-* [WooCart.com](https://woocart.com)
-* [Repository](https://github.com/niteoweb/woocart)
-* [Public repository](https://github.com/woocart)  
+* Easy Blog Networks
+  * [EasyBlogNetworks.com](https://www.easyblognetworks.com)
+  * [Repository](https://github.com/niteoweb/easyblognetworks)
+* WooCart
+  * [WooCart.com](https://woocart.com)
+  * [Repository](https://github.com/niteoweb/woocart)
+  * [Public repository](https://github.com/woocart)
 
 
 ## About Niteo and Niteans

@@ -2,10 +2,8 @@
 
 We use the following services for storing information:
 
-- **[GitHub](https://github.com/niteoweb)** - Code repository, project documentation and ticketing system for all our projects.
-- **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub. 
-- **[Intra](https://intra.niteo.co)** - Team members profiles, reports and anything else that cannot be publicly published on the Handbook.
-- **[Docs](http://docs.niteo.co)** - Technical documentation for projects, generated automatically by Sphinx on every code change.
+- **[GitHub](https://github.com/niteoweb)** - Code repository, company and project documentation, and ticketing system for all our projects.
+- **[ZenHub](https://www.zenhub.com/)** - Agile project management within GitHub.
 - **[Books](http://books.niteo.co)** - Our digital library.
 - **[Videos](http://videos.niteo.co)** - A collection of videos of our talks in public and private events, conferences, meetups, IRLs, etc.
 - **[Grafana](http://niteo.grafana.net)** - Company and project dashboards.
@@ -23,7 +21,7 @@ Guidelines on which information goes where.
 
 ### Development
 
-- Development workflow, guidelines, instructions and conventions are available on docs.niteo.co. 
+- Development workflow, guidelines, instructions and conventions are available on docs.niteo.co.
 
 ### Support
 
@@ -36,7 +34,7 @@ Guidelines on which information goes where.
 
 ### Operations
 
-- Finance reports are published on Intra.
+- Finance reports are published on [niteoweb/finances](https://github.com/niteoweb/finances).
 - Company work processes and general non-sensitive documentation is published to Handbook.
 
 ### Handbook
